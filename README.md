@@ -35,6 +35,7 @@ I recommend starting by printing the covers to understand your printer's layer a
 
 If you'd like, you can make changes to the SOLIDWORKS FILES by adding your name on the cover; it will look quite stylish. After printing all the parts, you can follow the assembly video.
 
+---
 [TR]
 Her iki model için %20 baskı dolgusu yeterlidir. PLA filamenti kullanmanızı tavsiye ederim.
 
