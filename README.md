@@ -26,3 +26,18 @@
 * [0.96 inch Oled Module](https://www.amazon.com/UCTRONICS-SSD1306-Self-Luminous-Display-Raspberry/dp/B072Q2X2LL)
 * [LG Battery inr18650mj1  two pieces](https://www.amazon.com.tr/LG-INR18650-MJ1-iyon-3500-mAh-10-Amper-Battery/dp/B072R5MHQ9)
 * [40x40 mm 5V DC Fan]
+
+## Production Stage / Üretim Aşaması
+[EN]
+For both models, a 20% infill is sufficient. I recommend using PLA filament.
+
+I recommend starting by printing the covers to understand your printer's layer adhesion accuracy. If the covers fit your Raspberry Pi, you can proceed to print the other parts.
+
+If you'd like, you can make changes to the SOLIDWORKS FILES by adding your name on the cover; it will look quite stylish. After printing all the parts, you can follow the assembly video.
+
+[TR]
+Her iki model için %20 baskı dolgusu yeterlidir. PLA filamenti kullanmanızı tavsiye ederim.
+
+Yazıcınızın katman yapışma hassasiyetini anlamak için başlamak için kapakları yazdırmanızı öneririm. Kapaklar Raspberry Pi'nize uygunsa, diğer parçaları yazdırmaya devam edebilirsiniz.
+
+İsterseniz SOLIDWORKS DOSYALARI'na adınızı ekleyerek özelleştirebilirsiniz; oldukça şık görünecektir. Tüm parçaları yazdırdıktan sonra montaj videosunu takip edebilirsiniz.
