@@ -9,7 +9,10 @@
 
 ## Yazarlar ve Teşekkür
 
-- Sayın Dr. Araştırma Görevlisi [HalukOzakyol'a](https://github.com/HalukOzakyol) katkılarından dolayı teşekkür ederim.
+- [EN]I would like to thank Dr. Research Assistant Haluk Ozakyol for his contributions.
+
+
+- [TR]Sayın Dr. Araştırma Görevlisi [HalukOzakyol'a](https://github.com/HalukOzakyol) katkılarından dolayı teşekkür ederim.
 
   
 ## Ekran Görüntüleri
